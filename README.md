@@ -29,5 +29,5 @@
    - Description: Scratch data of product information by ID by searching by group code
    - Link record: https://youtu.be/e-mIfmgWLLc?si=jPqD-_dZz51HCbRX
    - Image about information crawled:
-   ![image](https://github.com/JangDai9/Automation-by-Selenium-in-Python/assets/69681508/4215dcec-2c01-41ce-b572-e6e159dfac9e)   - 
+   [ -](https://github.com/JangDai9/Automation-by-Selenium-in-Python/issues/2#issue-2362707783) 
 
