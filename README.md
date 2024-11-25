@@ -19,7 +19,7 @@
 
 # 04. Full_Page_Screenshot.ipynb
    - Website: https://photoloco.com.au
-   - Description: From the list of IDs provided, the program runs the links of IDs in the list one by one. Then, take full screenshots of the detail pages of those codes and save the images in the folder.
+   - Description: From the list of IDs provided, the program runs the links of IDs in the list individually. Then, take full screenshots of the detail pages of those codes and save the images in the folder.
    - Link record: https://youtu.be/e-mIfmgWLLc?si=jPqD-_dZz51HCbRX
    - Result Image:
    ![image](https://github.com/JangDai44/Automation-by-Selenium-in-Python/assets/69681508/3d7d513b-ef4d-4274-8b17-473f0ab6402a)
@@ -35,3 +35,8 @@
    - Description: Scratch data of SKU codes of error orders in the system according to orderID on the administration website
    - Image about information crawled:
    ![sku in order](https://github.com/JangDai9/Automation-by-Selenium-in-Python/assets/69681508/2003a63c-4329-4fe9-a5b7-453c954abaee)
+
+# 7. Add Friend Zalo by Phone Number.ipynb
+   - Website: https://chat.zalo.me/
+   - Description: Make friends on zalo from a list of phone numbers. In Marketing on zalo, we will have a business account to connect with customers and send promotional media posts to customers in bulk.
+   - Image showing the working process:  
