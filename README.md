@@ -39,4 +39,6 @@
 # 7. Add Friend Zalo by Phone Number.ipynb
    - Website: https://chat.zalo.me/
    - Description: Make friends on zalo from a list of phone numbers. In Marketing on zalo, we will have a business account to connect with customers and send promotional media posts to customers in bulk.
-   - Image showing the working process:  
+   - Image showing the working process:
+   ![image](https://github.com/user-attachments/assets/e5ffacf9-1047-435a-8436-b070f6ff820e)
+   ![image](https://github.com/user-attachments/assets/ec82414a-91b8-42cb-b11b-be11ecbc49a6)
